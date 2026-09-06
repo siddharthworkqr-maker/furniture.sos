@@ -1,0 +1,6 @@
+{
+  "name": "WOODORA LIVING",
+  "description": "Discover premium furniture designed for modern living. Explore sofas, beds, dining tables, wardrobes, chairs and custom furniture from WOODORA LIVING.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
